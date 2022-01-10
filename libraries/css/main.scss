@@ -1,0 +1,179 @@
+.nav-title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+}
+
+.nav-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.section-header {
+  height: 745px;
+
+  background-color: #f0e3e3;
+
+  .nama {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .pekerjaan {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  hr{
+    width: 20%;
+    height: 5px;
+    color: black;
+    background-color: black;
+    margin: auto;
+  }
+
+  .pengenalan {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 183.7%;
+  }
+
+  .kotak1 {
+    position: absolute;
+    width: 174px;
+    height: 174px;
+    left: 1111px;
+    top: 223px;
+
+    background: #a5a58d;
+    border-radius: 15px;
+  }
+
+  .kotak2 {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    left: 900px;
+    top: 429px;
+
+    background: #b7b7a4;
+    border-radius: 15px;
+  }
+
+  .kotak3 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 930px;
+    top: 240px;
+
+    background: #b7b7a4;
+    border-radius: 10px;
+  }
+}
+
+.section-about-me {
+  height: 604px;
+
+  .about-title {
+    margin-top: 120px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .about-me {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+  }
+}
+
+.section-project {
+  height: 800px;
+
+  background-color: #f0e3e3;
+
+  .project-title {
+    margin-top: 120px;
+    margin-bottom: 70px;
+    font-family: Montserrat;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+
+.section-contact {
+  height: 1000px;
+
+  .contact-title {
+    margin-top: 120px;
+    font-family: Montserrat;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .contact-text {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+.section-footer {
+  background-color: #ffffff;
+  .footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+.section-info{
+  background-color: #f0e3e3;
+
+  .info-title {
+    margin-bottom: 80px;
+    font-family: Montserrat;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .alamat{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+  }
+}
